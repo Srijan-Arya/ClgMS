@@ -33,12 +33,12 @@ DAYS_OF_WEEK = (
 )
 
 test_name = (
-    ('Internal test 1', 'Internal test 1'),
-    ('Internal test 2', 'Internal test 2'),
-    ('Internal test 3', 'Internal test 3'),
-    ('Event 1', 'Event 1'),
-    ('Event 2', 'Event 2'),
-    ('Semester End Exam', 'Semester End Exam'),
+    ('CAT 1', 'CAT 1'),
+    ('CAT 2', 'CAT 2'),
+    ('DA 1', 'DA 1'),
+    ('DA 2', 'DA 2'),
+    ('DA 3', 'DA 3'),
+    ('FAT', 'FAT'),
 )
 
 
